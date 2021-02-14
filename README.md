@@ -35,7 +35,7 @@ this is nihit’s website
         <h2>MORE ABOUT ME</h2>
         <details>
         <summary>My Childhood</summary>
-            <p>I grew up in Delhi, India.I live near market and I love beaches.</p>
+            <p>I grew up in Delhi, India.I reside near market and I love beaches.</p>
         </details>
     </section>
 </main>
